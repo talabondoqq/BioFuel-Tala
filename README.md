@@ -36,9 +36,9 @@ your-project-name/
 
 ---
 
-[## Documentation Template Sections](docs/documentation.md)
+##[Documentation Template Sections](docs/documentation.md)
 
-[## 1. **Title Page & Authors**](docs/documentation.md#title-page-authors)
+##**[Title Page & Authors]**(docs/documentation.md#title-page-authors)
 ```
 [Insert Title Here]
 
