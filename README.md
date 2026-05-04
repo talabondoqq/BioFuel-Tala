@@ -9,7 +9,7 @@
 This repository serves as a **template for Business Intelligence graduation projects**. Students should **fork this repository** and use it as the foundation for their project work. All project-related files and documentation should be organized within this single repository.
 
 ### For Students: Quick Start
-1. **Fork this repository** to create your own copy
+1. **Fork this repository** (Click on Use this template to fork)  to create your own copy
 2. **Clone your fork** to your local machine
 3. **Follow the sections below** to structure your project documentation in markdown format
 4. **Push your work** regularly to track progress
@@ -22,12 +22,7 @@ This repository serves as a **template for Business Intelligence graduation proj
 your-project-name/
 ├── README.md                 # Project overview (UPDATE THIS)
 ├── docs/                     # All project documentation
-│   ├── 01_project_description.md
-│   ├── 02_data_research.md
-│   ├── 03_data_analysis.md
-│   ├── 04_dashboard_design.md
-│   ├── 05_advanced_analytics.md
-│   └── 06_deployment.md
+│   └── 01_project_description.md
 ├── data/
 │   ├── raw/                  # Original data files
 │   └── processed/            # Cleaned, transformed data
@@ -41,9 +36,9 @@ your-project-name/
 
 ---
 
-## Documentation Template Sections
+[## Documentation Template Sections](docs/documentation.md#documentation-template-sections)
 
-### 1. **Title Page & Authors**
+[### 1. **Title Page & Authors**](docs/documentation.md#1-title-page-authors)
 ```
 [Insert Title Here]
 
@@ -59,28 +54,28 @@ Semester: First Semester, 2025/2026
 Date: [Submission Date]
 ```
 
-### 2. **Abstract**
+[### 2. **Abstract**](docs/documentation.md#2-abstract)
 A concise summary of your project (2-3 paragraphs):
 - 1 paragraph: Introduction and objectives
 - 1 paragraph: Implementation approach and methods
 - 1 paragraph: Key results and findings
 
-### 3. **Acknowledgment**
+[### 3. **Acknowledgment**](docs/documentation.md#3-acknowledgment)
 Acknowledge individuals and organizations that supported your project.
 
-### 4. **Business Intelligence Project Description and Objectives**
+[### 4. **Business Intelligence Project Description and Objectives**](docs/documentation.md#4-business-intelligence-project-description-and-objectives)
 - What is your project about?
 - What industry or business domain does it address?
 - How will it help the industry/business?
 - What specific business problems are you solving?
 
-### 5. **Data Research and Acquiring Effort**
+[### 5. **Data Research and Acquiring Effort**](docs/documentation.md#5-data-research-and-acquiring-effort)
 - What data did you search for and why?
 - How did you acquire it? Sources, APIs, Scraping.
 - **Links to raw data sources** (URLs, datasets)
 - Brief description of each data source
 
-### 6. **Data Description and Understanding**
+[### 6. **Data Description and Understanding**](docs/documentation.md#6-data-description-and-understanding)
 - **Data Dictionary**: Describe every field you're using and why it matters
 - **Exploratory Data Analysis (EDA)**:
   - Charts and graphs showing data distribution
@@ -88,7 +83,7 @@ Acknowledge individuals and organizations that supported your project.
   - Correlations and relationships found
   - Insights relevant to your project objectives
 
-### 7. **Data Primary Cleaning and Transformation**
+[### 7. **Data Primary Cleaning and Transformation**](docs/documentation.md#7-data-primary-cleaning-and-transformation)
 Describe all data preparation steps in sequence:
 - Data type conversions
 - Handling missing values
@@ -96,13 +91,13 @@ Describe all data preparation steps in sequence:
 - Aggregation and appending
 - Any other transformations applied
 
-### 8. **Data Visualization and Insights**
+[### 8. **Data Visualization and Insights**](docs/documentation.md#8-data-visualization-and-insights)
 - Include relevant charts and describe each one
 - Explain the significance of each visualization
 - Highlight key insights from your charts
 - What patterns do these visualizations reveal?
 
-### 9. **Dashboard Design & Business Insights**
+[### 9. **Dashboard Design & Business Insights**](docs/documentation.md#9-dashboard-design--business-insights)
 - Showcase your final BI Dashboard
 - Organize by **Business Questions Answered**
 
@@ -118,7 +113,7 @@ Examples:
 - Chart 2: Customer Segmentation – Identifies high-value segments
 - Chart 3: Regional Performance – Highlights top/bottom performers
 
-### 10. **Advanced Analytics and AI Modeling**
+[### 10. **Advanced Analytics and AI Modeling**](docs/documentation.md#10-advanced-analytics-and-ai-modeling)
 - What type of model did you build? (Clustering, Predictive, Association, Generative AI, forecasting, agents, etc.)
 - What pre built AI models did you use and how?
 - What results were you seeking or what attribute are you predicting?
@@ -126,7 +121,7 @@ Examples:
 - Include multiple iterations if applicable
 - Explain your findings and model performance
 
-### 11. **Tools Research and Selection Effort**
+[### 11. **Tools Research and Selection Effort**](docs/documentation.md#11-tools-research-and-selection-effort)
 - What tools did you evaluate?
 - Which tools did you ultimately choose?
 - Why did you select these tools?
@@ -137,7 +132,7 @@ Examples:
 - Visualization: Tableau, Power BI, Looker
 - Deployment: Streamlit, Fast API, Gradio, Flask, Cloud platforms
 
-### 12. **Project Deployment Effort – Use Case**
+[### 12. **Project Deployment Effort – Use Case**](docs/documentation.md#12-project-deployment-effort-use-case)
 - How will a business user consume this project?
   - Interactive web dashboard (Streamlit)?
   - Scheduled reports?
@@ -148,13 +143,13 @@ Examples:
 - If you built a prototype, describe deployment process
 - Infrastructure and hosting considerations
 
-### 13. **Results**
+[### 13. **Results**](docs/documentation.md#13-results)
 - Summary of findings (2-3 paragraphs)
 - Most important insights or charts in your opinion
 - Evaluation and interpretation of results
 - Business impact and recommendations
 
-### 14. **References**
+[### 14. **References**](docs/documentation.md#14-references)
 List all sources cited in your project using a consistent citation format (APA, Chicago, etc.)
 
 ---
