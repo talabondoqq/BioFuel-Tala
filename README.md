@@ -215,7 +215,7 @@ for example:
 - Use version control (git commits with meaningful messages)
 
 ❌ **Don'ts:**
-- Don't use Word documents – use Markdown (.md) for project documentation and version control
+- Don't use Word documents – use Markdown (.md) here [Documentation](docs/documentation.md) for project documentation and version control, link main sections of documentation at the readme overview and Table of Content, as shown in the template.
 - Don't commit large data files directly – use `.gitignore` and reference external sources
 - Don't leave sections incomplete – mark as TODO if not ready
 - Don't forget to document your data sources and methodology
